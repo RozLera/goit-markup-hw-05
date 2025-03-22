@@ -680,6 +680,7 @@ button {
         }
 
         .contacts-input-icon {
+            fill: var(--navy-blue);
             position: absolute;
             top: 50%;
             left: 16px;
